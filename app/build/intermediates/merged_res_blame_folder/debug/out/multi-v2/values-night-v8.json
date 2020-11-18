@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/giftmoshobane/Desktop/Mars-Weather/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
+                {
+                    "source": "/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1450"
+                    }
+                },
                 {
                     "source": "/Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
@@ -35,25 +54,6 @@
                         "startOffsets": "100,170,254,338,434,536,638,3317",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "165,249,333,429,531,633,727,3401"
-                    }
-                },
-                {
-                    "source": "/Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "820"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1450"
                     }
                 }
             ]
