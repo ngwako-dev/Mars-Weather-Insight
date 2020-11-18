@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c4963b2bb2abdd69782080c5118f8628/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/1d44c96d9c1fad7be4a4e5e0bfb17b35/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/11eee8a63a95dc677e4cff91231a40f3/navigation-ui-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a60d93cb666d3a7cb48e18d92d5eed39/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c3b49fbd30d1fd6461c0218f90b2bd86/navigation-common-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/057bc32153bb0e3ef6bfbc2dd865a304/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9008f8ae27dd8a4afe57d34cdfabb2b8/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c0d1cc8b1750c4290a9fcc4c7b8916a1/jetified-lifecycle-livedata-ktx-2.2.0-rc03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2b84d820cdfebb972f460cdbf7ae236e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8968e18b69fee06b5389ec79d831a3c5/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f3961e51df28eb60327511bccc56ed9d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/387839691ad9d0c7e5d50597e1ab7c7e/navigation-ui-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a8be8f341c77fe2b0e7885bb0f5d39f1/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/dca414b4fce962ba4a6aa61138da8b26/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/d4478690f595b8f17a2c0f4d71a4253a/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/83214324cc7d04406b80dd670a4dd905/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/036b5e04e17644136ea647b309570a90/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bfc21d6068180c0eb0497dddf0c77b1c/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6d621b0761206ed0d303165dbecbfade/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fefec818dbfa8ca4a349f495b28a5f8c/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fdc0d26ad9e72ef34e20624c4b212bea/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bf8a9d523211709279bde5425ce69c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cc499b3c87fc6d94f574da355a490c86/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f192b4dd0a2a41bdb391092bb130b71a/navigation-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9f61a8a898259a2bf63fa52cb60bf801/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72fd55cc6ad560226926b29eb88b5a43/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2ccd6b6477f772583063065d40960c69/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fc98edc3d245fb8092ff1033583a3377/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/3ada763420489e9ecc39cd226f0c3ea4/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8a05d0c244d7b8baf78d83d249765633/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cff5939f473479253bdb2c53063c6bd2/navigation-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6352f967ad5f9fc2fc70ac2304da00f6/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/630f629bd3231b350ec5c8b5921ae882/navigation-common-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/44cef220cddf4d55626d04e8dc96f082/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/ec8e1e62fdc1cec5710f526e2bd7aa91/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8d8c752a571c361484569da6dbf45395/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/69291a9f1832da955e5f384ee8479935/lifecycle-livedata-2.2.0-rc03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b1ed0dce9b448355edd815340c1dd58e/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/05b7df7099167e3e85afcee6dfe1c0f3/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5b2366a928c8ddec55549f292af79f27/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b904f209bf960edc7f72d03a7daf9531/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2a38bba3aaf28706ff97c7e4966e809a/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72aa23452df82d295357caf023c308e5/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6670809df2dac37d9f6aec2233f9d12d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/317831efc184538ee2bdf3d6506ecebb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/348fccf5e1d4b87ce04b2f79d856d9f1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5605e905394430c7f8b111b71558dfe9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a8be8f341c77fe2b0e7885bb0f5d39f1/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a8be8f341c77fe2b0e7885bb0f5d39f1/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/d4478690f595b8f17a2c0f4d71a4253a/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/d4478690f595b8f17a2c0f4d71a4253a/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bfc21d6068180c0eb0497dddf0c77b1c/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bfc21d6068180c0eb0497dddf0c77b1c/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/ec8e1e62fdc1cec5710f526e2bd7aa91/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/ec8e1e62fdc1cec5710f526e2bd7aa91/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6670809df2dac37d9f6aec2233f9d12d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6670809df2dac37d9f6aec2233f9d12d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:11:9-49
+activity#com.example.marsweather.MainActivity
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c4963b2bb2abdd69782080c5118f8628/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c4963b2bb2abdd69782080c5118f8628/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/1d44c96d9c1fad7be4a4e5e0bfb17b35/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/1d44c96d9c1fad7be4a4e5e0bfb17b35/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/11eee8a63a95dc677e4cff91231a40f3/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/11eee8a63a95dc677e4cff91231a40f3/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a60d93cb666d3a7cb48e18d92d5eed39/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a60d93cb666d3a7cb48e18d92d5eed39/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c3b49fbd30d1fd6461c0218f90b2bd86/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c3b49fbd30d1fd6461c0218f90b2bd86/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/057bc32153bb0e3ef6bfbc2dd865a304/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/057bc32153bb0e3ef6bfbc2dd865a304/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9008f8ae27dd8a4afe57d34cdfabb2b8/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9008f8ae27dd8a4afe57d34cdfabb2b8/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c0d1cc8b1750c4290a9fcc4c7b8916a1/jetified-lifecycle-livedata-ktx-2.2.0-rc03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/c0d1cc8b1750c4290a9fcc4c7b8916a1/jetified-lifecycle-livedata-ktx-2.2.0-rc03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2b84d820cdfebb972f460cdbf7ae236e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2b84d820cdfebb972f460cdbf7ae236e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8968e18b69fee06b5389ec79d831a3c5/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8968e18b69fee06b5389ec79d831a3c5/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f3961e51df28eb60327511bccc56ed9d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f3961e51df28eb60327511bccc56ed9d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/387839691ad9d0c7e5d50597e1ab7c7e/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/387839691ad9d0c7e5d50597e1ab7c7e/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6fc8c290b3a2eb42298235744d84e5dc/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a8be8f341c77fe2b0e7885bb0f5d39f1/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/a8be8f341c77fe2b0e7885bb0f5d39f1/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/dca414b4fce962ba4a6aa61138da8b26/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/dca414b4fce962ba4a6aa61138da8b26/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/d4478690f595b8f17a2c0f4d71a4253a/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/d4478690f595b8f17a2c0f4d71a4253a/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/83214324cc7d04406b80dd670a4dd905/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/83214324cc7d04406b80dd670a4dd905/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/036b5e04e17644136ea647b309570a90/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/036b5e04e17644136ea647b309570a90/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bfc21d6068180c0eb0497dddf0c77b1c/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bfc21d6068180c0eb0497dddf0c77b1c/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6d621b0761206ed0d303165dbecbfade/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6d621b0761206ed0d303165dbecbfade/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fefec818dbfa8ca4a349f495b28a5f8c/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fefec818dbfa8ca4a349f495b28a5f8c/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fdc0d26ad9e72ef34e20624c4b212bea/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fdc0d26ad9e72ef34e20624c4b212bea/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bf8a9d523211709279bde5425ce69c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/bf8a9d523211709279bde5425ce69c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cc499b3c87fc6d94f574da355a490c86/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cc499b3c87fc6d94f574da355a490c86/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f192b4dd0a2a41bdb391092bb130b71a/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/f192b4dd0a2a41bdb391092bb130b71a/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9f61a8a898259a2bf63fa52cb60bf801/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/9f61a8a898259a2bf63fa52cb60bf801/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72fd55cc6ad560226926b29eb88b5a43/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72fd55cc6ad560226926b29eb88b5a43/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2ccd6b6477f772583063065d40960c69/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2ccd6b6477f772583063065d40960c69/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fc98edc3d245fb8092ff1033583a3377/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/fc98edc3d245fb8092ff1033583a3377/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/3ada763420489e9ecc39cd226f0c3ea4/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/3ada763420489e9ecc39cd226f0c3ea4/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8a05d0c244d7b8baf78d83d249765633/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8a05d0c244d7b8baf78d83d249765633/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cff5939f473479253bdb2c53063c6bd2/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/cff5939f473479253bdb2c53063c6bd2/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6352f967ad5f9fc2fc70ac2304da00f6/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6352f967ad5f9fc2fc70ac2304da00f6/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/630f629bd3231b350ec5c8b5921ae882/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/630f629bd3231b350ec5c8b5921ae882/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/7500f4d1d2dda2391a9c56fbf4779cc5/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/44cef220cddf4d55626d04e8dc96f082/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/44cef220cddf4d55626d04e8dc96f082/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/ec8e1e62fdc1cec5710f526e2bd7aa91/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/ec8e1e62fdc1cec5710f526e2bd7aa91/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8d8c752a571c361484569da6dbf45395/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/8d8c752a571c361484569da6dbf45395/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/69291a9f1832da955e5f384ee8479935/lifecycle-livedata-2.2.0-rc03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc03] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/69291a9f1832da955e5f384ee8479935/lifecycle-livedata-2.2.0-rc03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b1ed0dce9b448355edd815340c1dd58e/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b1ed0dce9b448355edd815340c1dd58e/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/05b7df7099167e3e85afcee6dfe1c0f3/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/05b7df7099167e3e85afcee6dfe1c0f3/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5b2366a928c8ddec55549f292af79f27/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5b2366a928c8ddec55549f292af79f27/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b904f209bf960edc7f72d03a7daf9531/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/b904f209bf960edc7f72d03a7daf9531/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2a38bba3aaf28706ff97c7e4966e809a/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/2a38bba3aaf28706ff97c7e4966e809a/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72aa23452df82d295357caf023c308e5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/72aa23452df82d295357caf023c308e5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6670809df2dac37d9f6aec2233f9d12d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/6670809df2dac37d9f6aec2233f9d12d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/317831efc184538ee2bdf3d6506ecebb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/317831efc184538ee2bdf3d6506ecebb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/348fccf5e1d4b87ce04b2f79d856d9f1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/348fccf5e1d4b87ce04b2f79d856d9f1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5605e905394430c7f8b111b71558dfe9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/5605e905394430c7f8b111b71558dfe9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giftmoshobane/Desktop/Mars-Weather/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/giftmoshobane/.gradle/caches/transforms-2/files-2.1/364af5f03665ba205ade59c326a3aaf4/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

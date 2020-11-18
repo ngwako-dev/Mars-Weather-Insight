@@ -1,0 +1,2 @@
+com/example/marsweather/BuildConfig.java
+ com.example.marsweather.BuildConfig
