@@ -1,2 +1,2 @@
-com/example/marsweather/BuildConfig.java
- com.example.marsweather.BuildConfig
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig

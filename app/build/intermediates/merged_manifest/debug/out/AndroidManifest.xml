@@ -17,8 +17,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.MarsWeather" >
-        <activity android:name="com.example.marsweather.View.MainActivity" >
+        android:theme="@style/Theme.MyApplication" >
+        <activity android:name="com.example.myapplication.view.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

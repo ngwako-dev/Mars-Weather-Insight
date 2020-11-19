@@ -26,9 +26,9 @@
 18        android:supportsRtl="true"
 18-->/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
-20        android:theme="@style/Theme.MarsWeather" >
-20-->/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:11:9-49
-21        <activity android:name="com.example.marsweather.View.MainActivity" >
+20        android:theme="@style/Theme.MyApplication" >
+20-->/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:11:9-51
+21        <activity android:name="com.example.myapplication.view.MainActivity" >
 21-->/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:12:9-18:20
 21-->/Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:12:19-52
 22            <intent-filter>
