@@ -58,7 +58,7 @@ INJECTED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/
 INJECTED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:3:5-38
+		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -102,8 +102,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gift
 	android:allowBackup
 		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:11:9-49
-activity#com.example.marsweather.View.MainActivity
+		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.example.myapplication.view.MainActivity
 ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
 		ADDED from /Users/giftmoshobane/Documents/Developer/Mars-Weather-Insight/app/src/main/AndroidManifest.xml:12:19-52
