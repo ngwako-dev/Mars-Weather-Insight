@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.NavController
 import com.example.marsweather.R
+//import com.example.marsweather.ViewModel.HomeViewModel
 import com.example.marsweather.ViewModel.HomeViewModel
 
 class HomeFragment : Fragment() {
@@ -28,7 +29,7 @@ class HomeFragment : Fragment() {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
-        viewModel = ViewModelProvider(this).get(HomeViewModel::class.java)
+     //   viewModel = ViewModelProvider(this).get(HomeViewModel::class.java)
         // TODO: Use the ViewModel
     }
 
