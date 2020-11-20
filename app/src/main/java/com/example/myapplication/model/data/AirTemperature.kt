@@ -1,6 +1,6 @@
-package com.example.myapplication.model
+package com.example.myapplication.model.data
 
-data class HWSX(
+data class AirTemperature(
     var av: Double,
     var ct: Int,
     var mn: Double,
