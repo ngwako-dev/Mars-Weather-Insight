@@ -5,6 +5,7 @@ import com.example.myapplication.model.data.Pressure
 import com.example.myapplication.model.data.WindSpeed
 
 data class X698(
+
         var AT: AirTemperature,
         var First_UTC: String,
         var WindSpeed: WindSpeed,
