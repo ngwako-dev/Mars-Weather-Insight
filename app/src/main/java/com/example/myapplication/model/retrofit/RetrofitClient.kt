@@ -1,13 +1,13 @@
 package com.example.myapplication.model.retrofit
 
-import android.provider.ContactsContract
+import com.example.myapplication.model.data.Forecast
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 
 
 class RetrofitClient{
-    val BASE_URL ="https://api.nasa.gov/"
+    val BASE_URL ="https://run.mocky.io/"
     val retrofitService by lazy {
         Retrofit.Builder()
                 .baseUrl(BASE_URL)
@@ -16,6 +16,6 @@ class RetrofitClient{
     }
 }
  interface RetrofitService {
-    @GET("insight_weather/?api_key=W1mGbLHETYWSrag3piW2i5PxoQxmaxv0wPC9Vg8E&feedtype=json&ver=1.0")
-    suspend fun getMarsData(): ContactsContract.Contacts.Data
+    @GET("4cb24bc8-a8ec-4736-ba4b-2284e40dad00")
+    suspend fun getMarsData(): Forecast
 }
